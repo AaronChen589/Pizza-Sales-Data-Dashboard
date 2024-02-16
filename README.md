@@ -37,6 +37,14 @@ Explore more in depth @ https://public.tableau.com/app/profile/aaron.chen3368/vi
 * From then on, you will be able to query and aggregate on the dataset to verify the accuracy for your upcoming visualizations (pizza_queries.sql contains notable queries)
 * Lastly, we can connect pizza_sales.csv to Tableau to create an interactive dashboard
 
+
+### Author
+Aaron Chen
+https://www.linkedin.com/in/aaronchenstony/
+https://public.tableau.com/app/profile/aaron.chen3368/vizzes 
+
+
+
 ### Acknowledgment
 Inspiration, code snippets, dataset, etc. FROM
 https://www.youtube.com/@datatutorials1
