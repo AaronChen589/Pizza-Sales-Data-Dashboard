@@ -26,7 +26,7 @@ Explore more in depth @ https://public.tableau.com/app/profile/aaron.chen3368/vi
 * PostgreSQL (latest version)
 * PostgreSQL IDE (ex: Dbeaver)
 * Tableau Desktop
-
+  
 ### Installing
 * https://www.postgresql.org/download/ (PostgreSQL)
 * https://dbeaver.io/download/ (IDE)
@@ -37,13 +37,9 @@ Explore more in depth @ https://public.tableau.com/app/profile/aaron.chen3368/vi
 * From then on, you will be able to query and aggregate on the dataset to verify the accuracy for your upcoming visualizations (pizza_queries.sql contains notable queries)
 * Lastly, we can connect pizza_sales.csv to Tableau to create an interactive dashboard
 
-
-### Author
-Aaron Chen
+### Author:Aaron Chen
 https://www.linkedin.com/in/aaronchenstony/
 https://public.tableau.com/app/profile/aaron.chen3368/vizzes 
-
-
 
 ### Acknowledgment
 Inspiration, code snippets, dataset, etc. FROM
